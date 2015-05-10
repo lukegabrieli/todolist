@@ -1,0 +1,23 @@
+body {
+  background-color: #BCD2FC;
+}
+
+.content {
+  width: 400px;
+  height: 100%;
+  background-color: #FCF4A1;
+  margin: 0px auto;
+  padding-top: 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+.listItem {
+  text-transform: capitalize;
+}
